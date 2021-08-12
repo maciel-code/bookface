@@ -1,0 +1,25 @@
+{
+  "name": "facebook",
+  "version": "1.0.0",
+  "description": "primer proyecto con Node.js",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/maciel-code/bookface.git"
+  },
+  "author": "Brandon Maciel",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/maciel-code/bookface/issues"
+  },
+  "homepage": "https://github.com/maciel-code/bookface#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.12"
+  }
+}
